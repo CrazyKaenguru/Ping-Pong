@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DreieckEigene
+comment1.params=
+comment1.target=DreieckEigene()
+comment2.params=x1\ y1\ x2\ y2\ x3\ y3
+comment2.target=DreieckEigene(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=farbeNeu
+comment3.target=void\ setzeFarbe(java.lang.String)
+comment4.params=sichtbarNeu
+comment4.target=void\ setzeSichtbar(boolean)
+numComments=5

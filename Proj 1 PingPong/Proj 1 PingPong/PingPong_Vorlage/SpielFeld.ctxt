@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SpielFeld
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ SpielFeld.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=SpielFeld()
+comment2.params=abschnitte\ radius
+comment2.target=void\ erstelleSpielUmfang(int,\ int)
+numComments=3

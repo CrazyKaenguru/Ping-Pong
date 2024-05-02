@@ -1,0 +1,52 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage
+-source
+17
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\javafx-base-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-base-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-controls-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-controls-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-fxml-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-graphics-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-graphics-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-media-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-media-20.0.1.jar;C:\Program Files\BlueJ\lib\javafx-swing-20.0.1-win.jar;C:\Program Files\BlueJ\lib\javafx-web-20.0.1-win.jar;C:\Program Files\BlueJ\lib\junit-4.12.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\opentest4j-1.2.0.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\javafx.web.jar;C:\Users\Quirin\Downloads\Bibliothek und Doku\BibErweiterungSortieren.jar;C:\Users\Quirin\Downloads\json-20230618.jar;C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\+libs\engine-alpha.jar;C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage
+-d
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+PingPong_Vorlage
+-windowtitle
+PingPong_Vorlage
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/17/docs/api/
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/Ball.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/CollisionDetection.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/RECHTECK.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/SPIEL.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/FormBerechnung.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/PingPong.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/DreieckEigene.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/Punkt.java
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage/KREIS.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\Ball.java...
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\Ball.java:15: error: ';' expected
+        collisionDetection(_dreiecke_)
+                                      ^
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\CollisionDetection.java...
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\RECHTECK.java...
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\SPIEL.java...
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\FormBerechnung.java...
+C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\FormBerechnung.java:66: error: ';' expected
+            dreiecke.add(dreieck); 
+                    ^
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\PingPong.java...
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\DreieckEigene.java...
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\Punkt.java...
+Loading source file C:\Users\Quirin\Downloads\Proj 1 PingPong\Proj 1 PingPong\PingPong_Vorlage\KREIS.java...
+2 errors
